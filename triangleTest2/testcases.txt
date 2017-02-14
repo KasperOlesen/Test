@@ -1,0 +1,16 @@
+Test cases:
+
+Input: 2 - 2 - 2
+expected: EQUILATERAL
+
+input: 3 - 4 - 4 
+expected: ISOSCELES
+
+input: 1 - 2 - 3
+expected: SCALENE
+
+input: # - ¤ - a
+expected: FAIL
+
+input: -2 - -5 - -4
+expected: FAIL

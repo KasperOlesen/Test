@@ -1,0 +1,8 @@
+- Declare variables in the top.
+- list every new condition on a new line (if/else).
+- 1 space before and after each "{}" or "()".
+- 1 empty line after each method end.
+- "{" on same line as initiation.
+- Variables set to final if possible.
+- camelcase with lower case first letter.
+- declare the arrays on the type instead of the name.

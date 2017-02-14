@@ -1,0 +1,6 @@
+Jeg har reviewet Christian Sindt
+
+1. simpel og forståelig kode.
+2. Ingen user input eller type check.
+3. if-statements kunne have være sat mere overskueligt op.
+4. Følger OOP mønstret godt.
